@@ -20,3 +20,7 @@ We capture the rgb values by using the .getpixel method of x,y from the for loop
 ----------------------------------------------Line 36
 THe RGB(Red , Green , Blue) value we are looking for is 195. Use an if statement to tell the program if it sees an value of 195 for the b value, to click . My screen shot starts at pizel 661 and 334, so we add the pixel value of x and y to them to start where the screen shot is. 
 This will differ from user to user so make sure to double check this. 
+
+
+Check out youtube to see the bot in action. 
+https://youtu.be/ZYXHzoSaUuQ

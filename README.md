@@ -7,7 +7,7 @@ Bot uses pyautogui to automatically click the center of the bullseye on the Flas
 
 ---------------------------------------------Line 27
 Users will need to screenshot the game region(see savedimage.png) on their monitor in order for pyautogui to recoginze what it is searching for , and what to click.
-The region (region=(661, 334, 600, 450)) is specific to my monitor(1920 x 1080) and will changer on a different sized monitor. 
+The region (region=(661, 334, 600, 450)) is specific to my monitor(1920 x 1080) and will change on a different sized monitor. 
 
 
 ---------------------------------------------Line 31-40
